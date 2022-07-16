@@ -49,7 +49,7 @@ fun BooksScreen(
                     }
                 )
             }
-            when(val booksResponse = viewModel.booksState.value) {
+            when (val booksResponse = viewModel.booksState.value) {
                 is Loading -> ProgressBar()
                 is Success -> LazyColumn(
                     modifier = Modifier.fillMaxSize().padding(padding)
