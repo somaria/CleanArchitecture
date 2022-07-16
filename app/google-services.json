@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907230604712",
+    "project_id": "cleanarchitecture-6416e",
+    "storage_bucket": "cleanarchitecture-6416e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907230604712:android:77c260bb662ca7fccf819d",
+        "android_client_info": {
+          "package_name": "com.gamecrawl.cleanarchitecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907230604712-417olupfum9cpna9bvcvr109h3vedcld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGcXykVDB8W532oPcoN45hXdgYBHpY9Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907230604712-417olupfum9cpna9bvcvr109h3vedcld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
